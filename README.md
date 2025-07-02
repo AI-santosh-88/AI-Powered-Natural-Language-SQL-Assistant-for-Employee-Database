@@ -32,6 +32,32 @@ The underlying database (SB_it_employee1.db) includes a table SB_it_employee1 wi
 * employee_salary (float)
 
 
+🎯 Key Responsibilities / Features : 
+
+1.Natural Language Input Interface
+* Text input for asking questions in plain English
+
+2.Prompt Engineering with Gemini API
+* Custom prompt structure to ensure accurate SQL generation
+
+3.SQL Query Execution
+* Queries are run safely on the SQLite database
+* Error handling included
+
+4.Result Visualization
+* Displays tabular results with pandas DataFrame
+* Clean layout with Streamlit
+
+5.Explainability
+* Gemini explains the SQL logic in natural language for transparency and learning
+
+6.Security & Environment
+* Uses .env for API key management
+* SQLite ensures lightweight, local data storage
+
+
+
+
 
 
 
