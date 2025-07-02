@@ -6,16 +6,20 @@
 💼 Business Use Case :
 
 #### Problem:
+
 Non-technical stakeholders often need access to data but don't know how to write SQL. Manual reporting or involving technical teams creates delays.
 
 #### Solution:
+
 This tool allows users to ask natural language questions about employee data (e.g., salaries, roles, counts) and instantly get results and explanations—powered by Google Gemini LLM and SQLite.
 
 #### Impact:
+
 * Speeds up data access
 * Reduces dependency on data/tech teams
 * Empowers HR, Finance, and Operations to self-serve analytics
 -------------------------------------------------------------------------  
+
 
 🧾 Project Description :
 
