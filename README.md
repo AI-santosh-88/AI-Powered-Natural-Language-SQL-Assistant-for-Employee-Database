@@ -58,7 +58,6 @@ The underlying database (SB_it_employee1.db) includes a table SB_it_employee1 wi
 
 📦 Technologies & Packages Used : 
 ## Package/Tool<------------------------------------->Purpose
--------------------------------------------------------------
 
 1.streamlit             -                    	Web UI for user interaction
 
