@@ -55,6 +55,8 @@ The underlying database (SB_it_employee1.db) includes a table SB_it_employee1 wi
 * Uses .env for API key management
 * SQLite ensures lightweight, local data storage
 
+---------------------------------------------------------------------------------
+
 
 📦 Technologies & Packages Used : 
 ## Package/Tool<------------------------------------->Purpose
@@ -74,7 +76,7 @@ The underlying database (SB_it_employee1.db) includes a table SB_it_employee1 wi
 
 
 
-📝 Project Summary :
+### Project Summary :
 
 ##### This project is a lightweight but powerful AI-driven data assistant that integrates:
 * Streamlit for user-friendly interface
