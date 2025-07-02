@@ -56,6 +56,22 @@ The underlying database (SB_it_employee1.db) includes a table SB_it_employee1 wi
 * SQLite ensures lightweight, local data storage
 
 
+📦 Technologies & Packages Used : 
+## Package/Tool<------------------------------------->Purpose
+-------------------------------------------------------------
+1.streamlit                                 	Web UI for user interaction
+
+2.sqlite3                                     Local database connection & execution
+
+3.pandas	                                    Tabular data handling
+
+4.google.generativeai                       	Access to Gemini LLM for NLP to SQL
+
+5.dotenv	                                    Load API key from .env file
+
+6.os	                                        Environment variable management
+
+
 
 
 
