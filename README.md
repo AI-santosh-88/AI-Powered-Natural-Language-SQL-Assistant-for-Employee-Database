@@ -74,15 +74,14 @@ The underlying database (SB_it_employee1.db) includes a table SB_it_employee1 wi
 
 
 
-📝 Project Summary : 
+📝 Project Summary :
+
 ##### This project is a lightweight but powerful AI-driven data assistant that integrates:
 * Streamlit for user-friendly interface
 * Google Gemini for LLM-based SQL generation & explanation
 * SQLite for local, fast data querying
-
 It is highly valuable for business analysts, HR professionals, managers, and non-technical users who want to interact with employee databases without learning SQL.
-
-It can be scaled up by:
+##### It can be scaled up by:
 * Connecting to cloud databases (PostgreSQL, BigQuery, etc.)
 * Expanding schema support
 * Adding user authentication for security
